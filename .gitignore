@@ -1,0 +1,11 @@
+*.cap
+*.pcap
+*.pcapng
+*.csv
+*.json
+*.txt
+*.log
+.env
+venv/
+.venv/
+.vscode/
